@@ -1,0 +1,1606 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE X3D PUBLIC "ISO//Web3D//DTD X3D 3.0//EN" "http://www.web3d.org/specifications/x3d-3.0.dtd">
+<X3D xmlns:xsd='http://www.w3.org/2001/XMLSchema-instance' profile='Immersive' version='3.0' xsd:noNamespaceSchemaLocation='http://www.web3d.org/specifications/x3d-3.0.xsd'>
+<Scene>
+<Group id='18_216452_106593'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/216452/106593.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+4810871.18 3360398.94 -2477930.07 4810871.18 3360398.94 -2477930.07 4810871.18 3360398.94 -2477930.07 4810871.18 3360398.94 -2477930.07 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_216452_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/216452/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+488524.95 6346253.13 -251624.00 488524.95 6346253.13 -251624.00 488524.95 6346253.13 -251624.00 488524.95 6346253.13 -251624.00 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_216452_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/216452/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+488524.95 6346253.13 -251624.00 488524.95 6346253.13 -251624.00 488524.95 6346253.13 -251624.00 488524.95 6346253.13 -251624.00 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_216452_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/216452/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+488524.95 6346253.13 -251624.00 488524.95 6346253.13 -251624.00 488524.95 6346253.13 -251624.00 488524.95 6346253.13 -251624.00 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_216452_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/216452/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+488524.95 6346253.13 -251624.00 488524.95 6346253.13 -251624.00 488524.95 6346253.13 -251624.00 488524.95 6346253.13 -251624.00 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_216452_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/216452/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+488524.95 6346253.13 -251624.00 488524.95 6346253.13 -251624.00 488524.95 6346253.13 -251624.00 488524.95 6346253.13 -251624.00 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_216452_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/216452/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+488524.95 6346253.13 -251624.00 488524.95 6346253.13 -251624.00 488524.95 6346253.13 -251624.00 488524.95 6346253.13 -251624.00 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_216452_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/216452/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+488524.95 6346253.13 -251624.00 488524.95 6346253.13 -251624.00 488524.95 6346253.13 -251624.00 488524.95 6346253.13 -251624.00 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_216452_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/216452/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+488524.95 6346253.13 -251624.00 488524.95 6346253.13 -251624.00 488524.95 6346253.13 -251624.00 488524.95 6346253.13 -251624.00 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_216452_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/216452/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+488524.95 6346253.13 -251624.00 488524.95 6346253.13 -251624.00 488524.95 6346253.13 -251624.00 488524.95 6346253.13 -251624.00 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_108226_106593'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/108226/106593.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-2817377.75 3360398.94 4620281.55 -2817377.75 3360398.94 4620281.55 -2817377.75 3360398.94 4620281.55 -2817377.75 3360398.94 4620281.55 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_108226_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/108226/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-286093.57 6346253.13 469171.33 -286093.57 6346253.13 469171.33 -286093.57 6346253.13 469171.33 -286093.57 6346253.13 469171.33 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_108226_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/108226/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-286093.57 6346253.13 469171.33 -286093.57 6346253.13 469171.33 -286093.57 6346253.13 469171.33 -286093.57 6346253.13 469171.33 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_108226_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/108226/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-286093.57 6346253.13 469171.33 -286093.57 6346253.13 469171.33 -286093.57 6346253.13 469171.33 -286093.57 6346253.13 469171.33 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_108226_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/108226/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-286093.57 6346253.13 469171.33 -286093.57 6346253.13 469171.33 -286093.57 6346253.13 469171.33 -286093.57 6346253.13 469171.33 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_108226_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/108226/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-286093.57 6346253.13 469171.33 -286093.57 6346253.13 469171.33 -286093.57 6346253.13 469171.33 -286093.57 6346253.13 469171.33 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_108226_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/108226/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-286093.57 6346253.13 469171.33 -286093.57 6346253.13 469171.33 -286093.57 6346253.13 469171.33 -286093.57 6346253.13 469171.33 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_108226_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/108226/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-286093.57 6346253.13 469171.33 -286093.57 6346253.13 469171.33 -286093.57 6346253.13 469171.33 -286093.57 6346253.13 469171.33 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_108226_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/108226/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-286093.57 6346253.13 469171.33 -286093.57 6346253.13 469171.33 -286093.57 6346253.13 469171.33 -286093.57 6346253.13 469171.33 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_108226_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/108226/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-286093.57 6346253.13 469171.33 -286093.57 6346253.13 469171.33 -286093.57 6346253.13 469171.33 -286093.57 6346253.13 469171.33 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_54113_106593'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/54113/106593.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-5209961.37 3360398.94 -1463188.81 -5209961.37 3360398.94 -1463188.81 -5209961.37 3360398.94 -1463188.81 -5209961.37 3360398.94 -1463188.81 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_54113_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/54113/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-529050.98 6346253.13 -148581.04 -529050.98 6346253.13 -148581.04 -529050.98 6346253.13 -148581.04 -529050.98 6346253.13 -148581.04 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_54113_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/54113/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-529050.98 6346253.13 -148581.04 -529050.98 6346253.13 -148581.04 -529050.98 6346253.13 -148581.04 -529050.98 6346253.13 -148581.04 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_54113_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/54113/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-529050.98 6346253.13 -148581.04 -529050.98 6346253.13 -148581.04 -529050.98 6346253.13 -148581.04 -529050.98 6346253.13 -148581.04 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_54113_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/54113/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-529050.98 6346253.13 -148581.04 -529050.98 6346253.13 -148581.04 -529050.98 6346253.13 -148581.04 -529050.98 6346253.13 -148581.04 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_54113_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/54113/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-529050.98 6346253.13 -148581.04 -529050.98 6346253.13 -148581.04 -529050.98 6346253.13 -148581.04 -529050.98 6346253.13 -148581.04 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_54113_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/54113/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-529050.98 6346253.13 -148581.04 -529050.98 6346253.13 -148581.04 -529050.98 6346253.13 -148581.04 -529050.98 6346253.13 -148581.04 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_54113_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/54113/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-529050.98 6346253.13 -148581.04 -529050.98 6346253.13 -148581.04 -529050.98 6346253.13 -148581.04 -529050.98 6346253.13 -148581.04 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_54113_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/54113/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-529050.98 6346253.13 -148581.04 -529050.98 6346253.13 -148581.04 -529050.98 6346253.13 -148581.04 -529050.98 6346253.13 -148581.04 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_54113_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/54113/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-529050.98 6346253.13 -148581.04 -529050.98 6346253.13 -148581.04 -529050.98 6346253.13 -148581.04 -529050.98 6346253.13 -148581.04 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_27056_106593'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/27056/106593.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-3268475.04 3360398.94 -4312967.64 -3268475.04 3360398.94 -4312967.64 -3268475.04 3360398.94 -4312967.64 -3268475.04 3360398.94 -4312967.64 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_27056_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/27056/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-331900.72 6346253.13 -437964.81 -331900.72 6346253.13 -437964.81 -331900.72 6346253.13 -437964.81 -331900.72 6346253.13 -437964.81 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_27056_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/27056/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-331900.72 6346253.13 -437964.81 -331900.72 6346253.13 -437964.81 -331900.72 6346253.13 -437964.81 -331900.72 6346253.13 -437964.81 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_27056_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/27056/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-331900.72 6346253.13 -437964.81 -331900.72 6346253.13 -437964.81 -331900.72 6346253.13 -437964.81 -331900.72 6346253.13 -437964.81 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_27056_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/27056/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-331900.72 6346253.13 -437964.81 -331900.72 6346253.13 -437964.81 -331900.72 6346253.13 -437964.81 -331900.72 6346253.13 -437964.81 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_27056_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/27056/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-331900.72 6346253.13 -437964.81 -331900.72 6346253.13 -437964.81 -331900.72 6346253.13 -437964.81 -331900.72 6346253.13 -437964.81 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_27056_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/27056/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-331900.72 6346253.13 -437964.81 -331900.72 6346253.13 -437964.81 -331900.72 6346253.13 -437964.81 -331900.72 6346253.13 -437964.81 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_27056_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/27056/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-331900.72 6346253.13 -437964.81 -331900.72 6346253.13 -437964.81 -331900.72 6346253.13 -437964.81 -331900.72 6346253.13 -437964.81 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_27056_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/27056/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-331900.72 6346253.13 -437964.81 -331900.72 6346253.13 -437964.81 -331900.72 6346253.13 -437964.81 -331900.72 6346253.13 -437964.81 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_27056_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/27056/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-331900.72 6346253.13 -437964.81 -331900.72 6346253.13 -437964.81 -331900.72 6346253.13 -437964.81 -331900.72 6346253.13 -437964.81 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_13528_106593'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/13528/106593.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-1724076.61 3360398.94 -5129539.82 -1724076.61 3360398.94 -5129539.82 -1724076.61 3360398.94 -5129539.82 -1724076.61 3360398.94 -5129539.82 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_13528_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/13528/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-175073.16 6346253.13 -520884.49 -175073.16 6346253.13 -520884.49 -175073.16 6346253.13 -520884.49 -175073.16 6346253.13 -520884.49 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_13528_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/13528/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-175073.16 6346253.13 -520884.49 -175073.16 6346253.13 -520884.49 -175073.16 6346253.13 -520884.49 -175073.16 6346253.13 -520884.49 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_13528_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/13528/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-175073.16 6346253.13 -520884.49 -175073.16 6346253.13 -520884.49 -175073.16 6346253.13 -520884.49 -175073.16 6346253.13 -520884.49 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_13528_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/13528/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-175073.16 6346253.13 -520884.49 -175073.16 6346253.13 -520884.49 -175073.16 6346253.13 -520884.49 -175073.16 6346253.13 -520884.49 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_13528_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/13528/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-175073.16 6346253.13 -520884.49 -175073.16 6346253.13 -520884.49 -175073.16 6346253.13 -520884.49 -175073.16 6346253.13 -520884.49 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_13528_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/13528/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-175073.16 6346253.13 -520884.49 -175073.16 6346253.13 -520884.49 -175073.16 6346253.13 -520884.49 -175073.16 6346253.13 -520884.49 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_13528_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/13528/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-175073.16 6346253.13 -520884.49 -175073.16 6346253.13 -520884.49 -175073.16 6346253.13 -520884.49 -175073.16 6346253.13 -520884.49 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_13528_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/13528/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-175073.16 6346253.13 -520884.49 -175073.16 6346253.13 -520884.49 -175073.16 6346253.13 -520884.49 -175073.16 6346253.13 -520884.49 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_13528_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/13528/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-175073.16 6346253.13 -520884.49 -175073.16 6346253.13 -520884.49 -175073.16 6346253.13 -520884.49 -175073.16 6346253.13 -520884.49 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_6764_106593'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/6764/106593.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-873492.51 3360398.94 -5340564.56 -873492.51 3360398.94 -5340564.56 -873492.51 3360398.94 -5340564.56 -873492.51 3360398.94 -5340564.56 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_6764_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/6764/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-88699.71 6346253.13 -542313.22 -88699.71 6346253.13 -542313.22 -88699.71 6346253.13 -542313.22 -88699.71 6346253.13 -542313.22 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_6764_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/6764/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-88699.71 6346253.13 -542313.22 -88699.71 6346253.13 -542313.22 -88699.71 6346253.13 -542313.22 -88699.71 6346253.13 -542313.22 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_6764_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/6764/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-88699.71 6346253.13 -542313.22 -88699.71 6346253.13 -542313.22 -88699.71 6346253.13 -542313.22 -88699.71 6346253.13 -542313.22 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_6764_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/6764/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-88699.71 6346253.13 -542313.22 -88699.71 6346253.13 -542313.22 -88699.71 6346253.13 -542313.22 -88699.71 6346253.13 -542313.22 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_6764_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/6764/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-88699.71 6346253.13 -542313.22 -88699.71 6346253.13 -542313.22 -88699.71 6346253.13 -542313.22 -88699.71 6346253.13 -542313.22 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_6764_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/6764/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-88699.71 6346253.13 -542313.22 -88699.71 6346253.13 -542313.22 -88699.71 6346253.13 -542313.22 -88699.71 6346253.13 -542313.22 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_6764_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/6764/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-88699.71 6346253.13 -542313.22 -88699.71 6346253.13 -542313.22 -88699.71 6346253.13 -542313.22 -88699.71 6346253.13 -542313.22 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_6764_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/6764/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-88699.71 6346253.13 -542313.22 -88699.71 6346253.13 -542313.22 -88699.71 6346253.13 -542313.22 -88699.71 6346253.13 -542313.22 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_6764_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/6764/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-88699.71 6346253.13 -542313.22 -88699.71 6346253.13 -542313.22 -88699.71 6346253.13 -542313.22 -88699.71 6346253.13 -542313.22 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_3382_106593'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/3382/106593.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-438185.11 3360398.94 -5393756.83 -438185.11 3360398.94 -5393756.83 -438185.11 3360398.94 -5393756.83 -438185.11 3360398.94 -5393756.83 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_3382_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/3382/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-44495.97 6346253.13 -547714.68 -44495.97 6346253.13 -547714.68 -44495.97 6346253.13 -547714.68 -44495.97 6346253.13 -547714.68 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_3382_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/3382/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-44495.97 6346253.13 -547714.68 -44495.97 6346253.13 -547714.68 -44495.97 6346253.13 -547714.68 -44495.97 6346253.13 -547714.68 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_3382_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/3382/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-44495.97 6346253.13 -547714.68 -44495.97 6346253.13 -547714.68 -44495.97 6346253.13 -547714.68 -44495.97 6346253.13 -547714.68 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_3382_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/3382/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-44495.97 6346253.13 -547714.68 -44495.97 6346253.13 -547714.68 -44495.97 6346253.13 -547714.68 -44495.97 6346253.13 -547714.68 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_3382_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/3382/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-44495.97 6346253.13 -547714.68 -44495.97 6346253.13 -547714.68 -44495.97 6346253.13 -547714.68 -44495.97 6346253.13 -547714.68 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_3382_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/3382/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-44495.97 6346253.13 -547714.68 -44495.97 6346253.13 -547714.68 -44495.97 6346253.13 -547714.68 -44495.97 6346253.13 -547714.68 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_3382_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/3382/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-44495.97 6346253.13 -547714.68 -44495.97 6346253.13 -547714.68 -44495.97 6346253.13 -547714.68 -44495.97 6346253.13 -547714.68 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_3382_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/3382/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-44495.97 6346253.13 -547714.68 -44495.97 6346253.13 -547714.68 -44495.97 6346253.13 -547714.68 -44495.97 6346253.13 -547714.68 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_3382_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/3382/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-44495.97 6346253.13 -547714.68 -44495.97 6346253.13 -547714.68 -44495.97 6346253.13 -547714.68 -44495.97 6346253.13 -547714.68 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_1691_106593'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/1691/106593.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-219272.63 3360398.94 -5407082.25 -219272.63 3360398.94 -5407082.25 -219272.63 3360398.94 -5407082.25 -219272.63 3360398.94 -5407082.25 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_1691_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/1691/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-22266.27 6346253.13 -549067.83 -22266.27 6346253.13 -549067.83 -22266.27 6346253.13 -549067.83 -22266.27 6346253.13 -549067.83 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_1691_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/1691/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-22266.27 6346253.13 -549067.83 -22266.27 6346253.13 -549067.83 -22266.27 6346253.13 -549067.83 -22266.27 6346253.13 -549067.83 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_1691_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/1691/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-22266.27 6346253.13 -549067.83 -22266.27 6346253.13 -549067.83 -22266.27 6346253.13 -549067.83 -22266.27 6346253.13 -549067.83 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_1691_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/1691/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-22266.27 6346253.13 -549067.83 -22266.27 6346253.13 -549067.83 -22266.27 6346253.13 -549067.83 -22266.27 6346253.13 -549067.83 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_1691_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/1691/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-22266.27 6346253.13 -549067.83 -22266.27 6346253.13 -549067.83 -22266.27 6346253.13 -549067.83 -22266.27 6346253.13 -549067.83 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_1691_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/1691/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-22266.27 6346253.13 -549067.83 -22266.27 6346253.13 -549067.83 -22266.27 6346253.13 -549067.83 -22266.27 6346253.13 -549067.83 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_1691_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/1691/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-22266.27 6346253.13 -549067.83 -22266.27 6346253.13 -549067.83 -22266.27 6346253.13 -549067.83 -22266.27 6346253.13 -549067.83 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_1691_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/1691/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-22266.27 6346253.13 -549067.83 -22266.27 6346253.13 -549067.83 -22266.27 6346253.13 -549067.83 -22266.27 6346253.13 -549067.83 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_1691_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/1691/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-22266.27 6346253.13 -549067.83 -22266.27 6346253.13 -549067.83 -22266.27 6346253.13 -549067.83 -22266.27 6346253.13 -549067.83 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_845_106593'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/845/106593.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-109593.99 3360398.94 -5410416.63 -109593.99 3360398.94 -5410416.63 -109593.99 3360398.94 -5410416.63 -109593.99 3360398.94 -5410416.63 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_845_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/845/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-11128.84 6346253.13 -549406.42 -11128.84 6346253.13 -549406.42 -11128.84 6346253.13 -549406.42 -11128.84 6346253.13 -549406.42 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_845_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/845/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-11128.84 6346253.13 -549406.42 -11128.84 6346253.13 -549406.42 -11128.84 6346253.13 -549406.42 -11128.84 6346253.13 -549406.42 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_845_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/845/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-11128.84 6346253.13 -549406.42 -11128.84 6346253.13 -549406.42 -11128.84 6346253.13 -549406.42 -11128.84 6346253.13 -549406.42 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_845_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/845/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-11128.84 6346253.13 -549406.42 -11128.84 6346253.13 -549406.42 -11128.84 6346253.13 -549406.42 -11128.84 6346253.13 -549406.42 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_845_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/845/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-11128.84 6346253.13 -549406.42 -11128.84 6346253.13 -549406.42 -11128.84 6346253.13 -549406.42 -11128.84 6346253.13 -549406.42 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_845_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/845/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-11128.84 6346253.13 -549406.42 -11128.84 6346253.13 -549406.42 -11128.84 6346253.13 -549406.42 -11128.84 6346253.13 -549406.42 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_845_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/845/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-11128.84 6346253.13 -549406.42 -11128.84 6346253.13 -549406.42 -11128.84 6346253.13 -549406.42 -11128.84 6346253.13 -549406.42 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_845_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/845/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-11128.84 6346253.13 -549406.42 -11128.84 6346253.13 -549406.42 -11128.84 6346253.13 -549406.42 -11128.84 6346253.13 -549406.42 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_845_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/845/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-11128.84 6346253.13 -549406.42 -11128.84 6346253.13 -549406.42 -11128.84 6346253.13 -549406.42 -11128.84 6346253.13 -549406.42 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_422_106593'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/422/106593.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-54734.96 3360398.94 -5411249.67 -54734.96 3360398.94 -5411249.67 -54734.96 3360398.94 -5411249.67 -54734.96 3360398.94 -5411249.67 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_422_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/422/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-5558.12 6346253.13 -549491.01 -5558.12 6346253.13 -549491.01 -5558.12 6346253.13 -549491.01 -5558.12 6346253.13 -549491.01 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_422_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/422/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-5558.12 6346253.13 -549491.01 -5558.12 6346253.13 -549491.01 -5558.12 6346253.13 -549491.01 -5558.12 6346253.13 -549491.01 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_422_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/422/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-5558.12 6346253.13 -549491.01 -5558.12 6346253.13 -549491.01 -5558.12 6346253.13 -549491.01 -5558.12 6346253.13 -549491.01 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_422_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/422/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-5558.12 6346253.13 -549491.01 -5558.12 6346253.13 -549491.01 -5558.12 6346253.13 -549491.01 -5558.12 6346253.13 -549491.01 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_422_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/422/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-5558.12 6346253.13 -549491.01 -5558.12 6346253.13 -549491.01 -5558.12 6346253.13 -549491.01 -5558.12 6346253.13 -549491.01 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_422_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/422/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-5558.12 6346253.13 -549491.01 -5558.12 6346253.13 -549491.01 -5558.12 6346253.13 -549491.01 -5558.12 6346253.13 -549491.01 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_422_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/422/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-5558.12 6346253.13 -549491.01 -5558.12 6346253.13 -549491.01 -5558.12 6346253.13 -549491.01 -5558.12 6346253.13 -549491.01 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_422_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/422/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-5558.12 6346253.13 -549491.01 -5558.12 6346253.13 -549491.01 -5558.12 6346253.13 -549491.01 -5558.12 6346253.13 -549491.01 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+<Group id='18_422_0'>
+ <shape>
+<Appearance>
+<ImageTexture repeatS='true' repeatT='true' url='http://localhost/osm_tiles/18/422/0.png' />
+</Appearance>
+<IndexedFaceSet coordIndex='
+0 1 2 3 0 -1
+'       convex='false' solid='false'>
+<Coordinate point='
+-5558.12 6346253.13 -549491.01 -5558.12 6346253.13 -549491.01 -5558.12 6346253.13 -549491.01 -5558.12 6346253.13 -549491.01 '/>
+<TextureCoordinate point='
+0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0
+'/>
+</IndexedFaceSet>
+</Shape>
+</Group>
+</Scene>
+</X3D>
