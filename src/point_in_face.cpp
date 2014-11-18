@@ -13,14 +13,14 @@ double max(double a,double b){
 		return b;
 }
 
-double area(POINT_LATLON a, POINT_LATLON b, POINT_LATLON c)
+double area(POINT_LATLON p1, POINT_LATLON p2, POINT_LATLON p3)
 {
-	double a_x = a.lon_deg;
-	double a_y = a.lat_deg;
-	double b_x = b.lon_deg;
-	double b_y = b.lat_deg;
-	double c_x = c.lon_deg;
-	double c_y = c.lat_deg;
+	double a_x = p1.lon_deg;
+	double a_y = p1.lat_deg;
+	double b_x = p2.lon_deg;
+	double b_y = p2.lat_deg;
+	double c_x = p3.lon_deg;
+	double c_y = p3.lat_deg;
 	double a=sqrt((a_x-b_x)*(a_x-b_x)+(a_y-b_y)*(a_y-b_y));
 	double b=sqrt((a_x-c_x)*(a_x-c_x)+(a_y-c_y)*(a_y-c_y));
 	double c=sqrt((b_x-c_x)*(b_x-c_x)+(b_y-c_y)*(b_y-c_y));
@@ -51,15 +51,17 @@ POINT_XYZ p_insert_face(POINT_LATLON_Z p1, POINT_LATLON_Z p2, POINT_LATLON_Z p3,
 	double x3 = p3.coord.lon_deg;
 	double y3 = p3.coord.lat_deg;
 	double z3 = p3.z;
+	double x = p.lon_deg;
+	double y = p.lat_deg;
 	
 	double a=(y2-y1)*(z3-z1)-(y3-y1)*(z2-z1);
 	double b=(z2-z1)*(x3-x1)-(z3-z1)*(x2-x1);
 	double c=(x2-x1)*(y3-y1)-(x3-x1)*(y2-y1);
 	double d=a*(-1)*x1-b*y1-c*z1;
-	h=(a*x+b*y+d)/((-1)*c);
+	double h=(a*x+b*y+d)/((-1)*c);
 	POINT_LATLON_Z p_result;
-	p_result.lat_deg = p.lat_deg;
-	p_result.lon_deg = p.lon_deg;
+	p_result.coord.lat_deg = p.lat_deg;
+	p_result.coord.lon_deg = p.lon_deg;
 	p_result.z = h;
 	result = p_latlon_z2p_xyz(p_result);
 
@@ -68,7 +70,7 @@ POINT_XYZ p_insert_face(POINT_LATLON_Z p1, POINT_LATLON_Z p2, POINT_LATLON_Z p3,
 
 int equal(double a, double b)
 {
-	if(abs(a-b) < 0.0000001)
+	if(fabs(a-b) < 0.0000001)
 		return 1;
 	else
 		return 0;
