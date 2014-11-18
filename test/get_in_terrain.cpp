@@ -1,11 +1,4 @@
-#include<iostream>
-#include<vector>
-#include<boost/algorithm/string.hpp>
-#include<boost/lexical_cast.hpp>
-#include<fstream>
-#include "../inc/head.h"
-
-typedef std::string string;
+#include "terrain.h"
 
 
 int split(const string line, std::vector<POINT_LATLON_Z> *points)
@@ -33,6 +26,7 @@ int get_in_terrain(const char *in_file, std::vector<POINT_LATLON_Z> *points)
 	while(getline(in, input)){
 		split(input, points);
 	}
+	in.close();
 	return 0;
 }
 
@@ -49,7 +43,7 @@ int test_output(std::vector<POINT_LATLON_Z> *points)
 	return 0;
 }
 
-
+/*
 int main()
 {
 	std::vector<POINT_LATLON_Z> points;
@@ -57,4 +51,4 @@ int main()
 	test_output(&points);
 	return 0;
 }
-
+*/
