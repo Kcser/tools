@@ -34,14 +34,24 @@ POINT_XYZ p_latlon_z2p_xyz(POINT_LATLON_Z point)
 	double lat_rad = point.coord.lat_deg * PI /180.0;
 	double lon_rad = point.coord.lon_deg * PI /180.0;
 	double z_order = point.z;
-	result.x = (R + z_order)*cos(lat_rad)*cos(lon_rad);
+	result.x = (R + z_order)*cos(lat_rad)*sin(lon_rad);
 	result.y = (R + z_order)*sin(lat_rad);
-	result.z = (R + z_order)*cos(lat_rad)*sin(lon_rad);	
+	result.z = (R + z_order)*cos(lat_rad)*cos(lon_rad);	
 	return result;
 }
-POINT_XYZ p_insert_face(POINT_LATLON_Z p1, POINT_LATLON_Z p2, POINT_LATLON_Z p3, POINT_LATLON p)
+POINT_XYZ p_latlon_z2p_xyz(POINT_LATLON point, double z)
 {
 	POINT_XYZ result;
+	double lat_rad = point.lat_deg * PI /180.0;
+	double lon_rad = point.lon_deg * PI /180.0;
+	double z_order = z;
+	result.x = (R + z_order)*cos(lat_rad)*sin(lon_rad);
+	result.y = (R + z_order)*sin(lat_rad);
+	result.z = (R + z_order)*cos(lat_rad)*cos(lon_rad);	
+	return result;
+}
+double p_insert_face(POINT_LATLON_Z p1, POINT_LATLON_Z p2, POINT_LATLON_Z p3, POINT_LATLON p)
+{
 	double x1 = p1.coord.lon_deg;
 	double y1 = p1.coord.lat_deg;
 	double z1 = p1.z;
@@ -59,13 +69,8 @@ POINT_XYZ p_insert_face(POINT_LATLON_Z p1, POINT_LATLON_Z p2, POINT_LATLON_Z p3,
 	double c=(x2-x1)*(y3-y1)-(x3-x1)*(y2-y1);
 	double d=a*(-1)*x1-b*y1-c*z1;
 	double h=(a*x+b*y+d)/((-1)*c);
-	POINT_LATLON_Z p_result;
-	p_result.coord.lat_deg = p.lat_deg;
-	p_result.coord.lon_deg = p.lon_deg;
-	p_result.z = h;
-	result = p_latlon_z2p_xyz(p_result);
 
-	return result;
+	return h;
 }
 
 int equal(double a, double b)
@@ -92,11 +97,27 @@ POINT_XYZ p_in_faces(const POINT_LATLON_Z *p, int p_len, const int *index, int i
 {
 	POINT_XYZ result;
 	result = latlon2xyz(in_point);
-	for(int i =0; i < index_len; i+=3)
+	for(int i =0; i < index_len; i+=4)
 	{
-		if(check_p_face(p[i].coord, p[i+1].coord, p[i+2].coord, in_point))
+		if(check_p_face(p[index[i]].coord, p[index[i+1]].coord, p[index[i+2]].coord, in_point))
 		{
-			result = p_insert_face(p[i], p[i+1], p[i+2], in_point);
+			double height = p_insert_face(p[index[i]], p[index[i+1]], p[index[i+2]], in_point);
+			result = p_latlon_z2p_xyz(in_point, height);
+			return result;
+		}
+		
+	}
+	return result;
+}
+
+double p_in_faces1(const POINT_LATLON_Z *p, int p_len, const int *index, int index_len, POINT_LATLON in_point)
+{
+	double result = 0;
+	for(int i =0; i < index_len; i+=4)
+	{
+		if(check_p_face(p[index[i]].coord, p[index[i+1]].coord, p[index[i+2]].coord, in_point))
+		{
+			result = p_insert_face(p[index[i]], p[index[i+1]], p[index[i+2]], in_point);
 			return result;
 		}
 		
