@@ -17,7 +17,37 @@ int split(const string line, std::vector<POINT_LATLON_Z> *points)
 
 
 
+int vector_2_array(std::vector<POINT_LATLON_Z> p_vector, POINT_LATLON_Z **p_array, int *p_len)
+{
+	int len = p_vector.size();
+	POINT_LATLON_Z *array = (POINT_LATLON_Z *)malloc(len * sizeof(POINT_LATLON_Z));
+	int i = 0;
+	for(std::vector<POINT_LATLON_Z>::iterator it = p_vector.begin();
+			it != p_vector.end();
+			it ++)
+	{
+		array[i] = *it;
+		i++;
+	}
+	*p_array = array;
+	*p_len = len;
+	return 0;
+}
 
+
+
+int get_in_terrain(const char *in_file, POINT_LATLON_Z **t_array, int *t_len)
+{
+	std::ifstream in(in_file);
+	string input;
+	std::vector<POINT_LATLON_Z> points;
+	while(getline(in, input)){
+		split(input, &points);
+	}
+	vector_2_array(points, t_array, t_len);
+	in.close();
+	return 0;
+}
 
 int get_in_terrain(const char *in_file, std::vector<POINT_LATLON_Z> *points)
 {
@@ -29,7 +59,6 @@ int get_in_terrain(const char *in_file, std::vector<POINT_LATLON_Z> *points)
 	in.close();
 	return 0;
 }
-
 int test_output(std::vector<POINT_LATLON_Z> *points)
 {
 	for(std::vector<POINT_LATLON_Z>::iterator it = points->begin();

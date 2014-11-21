@@ -3,9 +3,8 @@
 
 int *nest_index(int length, int height)
 {
-	int *index;
 	int index_len = 8*(length - 1)*(height - 1);
-	index = new int[index_len];
+	int *index = (int *)malloc(sizeof(int)*index_len);
 	int p_index = 0;
 	for(int i = 0;i < height - 1; i ++)
 	{
